@@ -1,5 +1,7 @@
 # preact-intl
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/preact-intl.svg)](https://greenkeeper.io/)
+
 [![NPM](http://img.shields.io/npm/v/preact-intl.svg)](https://www.npmjs.com/package/preact-intl)
 [![travis-ci](https://travis-ci.org/developit/preact-intl.svg)](https://travis-ci.org/developit/preact-intl)
 
